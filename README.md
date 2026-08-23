@@ -1,16 +1,24 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Ivandm03/Ivandm03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>👋 ¡Hola, soy Ivandm03!</h1>
+  <h3>Desarrollador en constante evolución 🚀</h3>
 
-Here are some ideas to get you started:
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!-- Insignias de estilo (píldoras de colores) -->
+  <img src="https://img.shields.io/badge/Code-Enthusiast-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tech-Lover-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Coffee-Addict-yellow?style=for-the-badge" />
+
+</div>
+
+---
+
+### 🛠️ Sobre mí y tecnologías
+* 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis proyectos.
+* 💻 Me apasiona construir cosas para la web y resolver problemas con código.
+
+### 📊 Mis estadísticas
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivandm03&show_icons=true&theme=radical" />
+</div>
