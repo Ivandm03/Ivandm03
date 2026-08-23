@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>👋 ¡Hola, soy Ivandm03!</h1>
+  <h1>👋 ¡Hola, soy Ivan Diaz!</h1>
   <h3>📊 Data Analyst | Transformando datos en decisiones inteligentes 💡</h3>
 
   <br/>
