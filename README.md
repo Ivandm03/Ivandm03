@@ -16,11 +16,6 @@
 
 ---
 
-### 🛠️ Stack Tecnológico & Habilidades
-* 🗄️ **Bases de Datos & Consultas:** SQL, PostgreSQL / MySQL.
-* 📈 **Visualización de Datos:** Power BI, Excel avanzado.
-* 🐍 **Análisis y Procesamiento:** Python (Pandas, NumPy), limpieza y modelado de datos.
-
 ### 💻 Sobre mí
 
 ```javascript
