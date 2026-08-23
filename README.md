@@ -16,12 +16,7 @@
 
 ---
 
-### 🛠️ Stack Tecnológico & Habilidades
-* 🗄️ **Bases de Datos & Consultas:** SQL, PostgreSQL / MySQL.
-* 📈 **Visualización de Datos:** Power BI, Tableau, Excel avanzado.
-* 🐍 **Análisis y Procesamiento:** Python (Pandas, NumPy), limpieza y modelado de datos.
-
-### 💻 Sobre mí
+### 🧑‍💻 Sobre mí
 
 ```javascript
 const ivan = {
@@ -29,4 +24,10 @@ const ivan = {
     focus: "Business Intelligence & Data Visualization",
     passions: ["SQL Queries", "Data Storytelling", "Predictive Modeling"],
     learning: "Advanced Python for Data Science",
+};
+
+const stackTecnologico = {
+    databases: ["SQL", "PostgreSQL", "MySQL"],
+    visualization: ["Power BI", "Tableau", "Excel Avanzado"],
+    processing: ["Python", "Pandas", "NumPy"]
 };
