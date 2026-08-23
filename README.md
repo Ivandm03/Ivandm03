@@ -16,16 +16,6 @@
 
 ---
 
-```javascript
-const ivan = {
-    role: "Data Analyst",
-    focus: "Business Intelligence & Data Visualization",
-    passions: ["SQL Queries", "Data Storytelling", "Predictive Modeling"],
-    learning: "Advanced Python for Data Science",
-};
-
-----
-
 ### 🛠️ Stack Tecnológico & Habilidades
 * 🗄️ **Bases de Datos & Consultas:** SQL, PostgreSQL / MySQL.
 * 📈 **Visualización de Datos:** Power BI, Tableau, Excel avanzado.
@@ -33,3 +23,10 @@ const ivan = {
 
 ### 💻 Sobre mí
 
+```javascript
+const ivan = {
+    role: "Data Analyst",
+    focus: "Business Intelligence & Data Visualization",
+    passions: ["SQL Queries", "Data Storytelling", "Predictive Modeling"],
+    learning: "Advanced Python for Data Science",
+};
