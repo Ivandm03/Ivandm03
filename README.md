@@ -1,24 +1,30 @@
 <div align="center">
 
   <h1>👋 ¡Hola, soy Ivandm03!</h1>
-  <h3>Desarrollador en constante evolución 🚀</h3>
+  <h3>📊 Data Analyst | Transformando datos en decisiones inteligentes 💡</h3>
 
   <br/>
 
-  <!-- Insignias de estilo (píldoras de colores) -->
-  <img src="https://img.shields.io/badge/Code-Enthusiast-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tech-Lover-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Coffee-Addict-yellow?style=for-the-badge" />
+  <!-- Insignias enfocadas en Análisis de Datos -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
 
 </div>
 
 ---
 
-### 🛠️ Sobre mí y tecnologías
-* 🌱 Actualmente estoy aprendiendo nuevas tecnologías y mejorando mis proyectos.
-* 💻 Me apasiona construir cosas para la web y resolver problemas con código.
+### 🛠️ Stack Tecnológico & Habilidades
+* 🗄️ **Bases de Datos & Consultas:** SQL, PostgreSQL / MySQL.
+* 📈 **Visualización de Datos:** Power BI, Tableau, Excel avanzado.
+* 🐍 **Análisis y Procesamiento:** Python (Pandas, NumPy), limpieza y modelado de datos.
 
-### 📊 Mis estadísticas
+### 🎯 Sobre mí
+* 🔍 Me apasiona descubrir patrones ocultos y contar historias a través de los datos.
+* 🚀 Siempre buscando optimizar procesos y crear dashboards claros para la toma de decisiones.
+
+### 📊 Mis estadísticas de GitHub
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Ivandm03&show_icons=true&theme=radical" />
 </div>
