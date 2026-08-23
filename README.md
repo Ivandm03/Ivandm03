@@ -25,6 +25,7 @@
 * 🚀 Siempre buscando optimizar procesos y crear dashboards claros para la toma de decisiones.
 
 ### 📊 Mis estadísticas de GitHub
+### 📊 Mis estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ivandm03&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Ivandm03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
 </div>
