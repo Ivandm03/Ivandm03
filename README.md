@@ -16,6 +16,5 @@ const ivan = {
     role: "Data Analyst",
     focus: "Business Intelligence & Data Visualization",
     passions: ["SQL Queries", "Data Storytelling", "Predictive Modeling"],
-    learning: "Advanced Python for Machine Learning",
+    learning: "Advanced Python for Data Science",
 };
-
